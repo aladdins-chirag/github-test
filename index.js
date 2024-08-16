@@ -10,6 +10,10 @@ function sayName() {
 function addToDev() {
     console.log("Add code in feature B branch");
     console.log("Add code again");
-
+    console.log("Add code again");
+    console.log("Add code again");
+    console.log("Add code again");
+    console.log("Add code again");
+    console.log("Add code again");
 
 }
