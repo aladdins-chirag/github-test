@@ -9,5 +9,7 @@ function sayName() {
 
 function addToDev() {
     console.log("Add code in dev branch");
+    console.log("Add code again");
+
 
 }
