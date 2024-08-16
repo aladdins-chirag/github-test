@@ -6,3 +6,8 @@ function sayName() {
     console.log(`My name is ` + myName);
 
 }
+
+function addToDev() {
+    console.log("Add code in dev branch");
+
+}
